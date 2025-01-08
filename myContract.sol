@@ -1,3 +1,3 @@
 contract firstContract {
-string Hello = "Hello Word!"   ;
+string Hello = "Hello Word!";
 }
